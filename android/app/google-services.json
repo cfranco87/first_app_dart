@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727743064310",
+    "project_id": "yellow-pages-a0d17",
+    "storage_bucket": "yellow-pages-a0d17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727743064310:android:b53fa22abcd2c04aeb64d7",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-K0fB3SeqqrVMGUOQjDXFg-msdCNfCng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
